@@ -1,0 +1,6 @@
+torch
+transformers[torch]
+datasets
+rouge_score
+sacrebleu
+accelerate
